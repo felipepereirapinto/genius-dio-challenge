@@ -14,4 +14,4 @@ This project was developed with the following technologies:
 
 ## 👀 Preview
 
-<img src="./.github/genius-game.png" alt="Genius game image" width="50%">
+<img src="./.github/genius-game.png" alt="Genius game image" width="100%">
